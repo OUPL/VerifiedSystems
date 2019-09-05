@@ -16,7 +16,7 @@ This graduate independent study examines recent research results in verified sys
 
 In addition to scheduled assignments, students are required to post reviews of each week's assigned reading. 
 
-Post reviews to the [Piazza page](piazza.com/ohio/fall2019/cs6930) using the appropriate tag (e.g., *w2* for week 2's review).
+Post reviews to the [Piazza page](http://piazza.com/ohio/fall2019/cs6930) using the appropriate tag (e.g., *w2* for week 2's review).
 
 Reviews should include at least the following sections: 
 
