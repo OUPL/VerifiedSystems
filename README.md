@@ -40,7 +40,7 @@ Students are required to complete a significant final project (40%) that either 
 | Week 5 | TLA+ | [Euclid Writes an Algorithm: A Fairytale](http://lamport.azurewebsites.net/pubs/euclid.pdf) | Final Project Check-in #1 |
 | Week 6 | Paxos | [The Part-Time Parliament](http://lamport.azurewebsites.net/pubs/lamport-paxos.pdf) | |
 | Week 7 | Byzantine Paxos in TLA+ | [Byzantizing Paxos by Refinement](http://lamport.azurewebsites.net/pubs/web-byzpaxos.pdf) | |
-| Week 8 | Verdi | [Verdi: A Framework for Implementing and Verifying Distributed Systems](https://verdi.uwplse.org/verdi.pdf) | |
+| Week 8 | Verdi | [Verdi: A Framework for Implementing and Verifying Distributed Systems](https://verdi.uwplse.org/verdi.pdf) | One para. description of your A2 project (by email) |
 | Week 9 | Verdi-style Paxos | [Planning for Change in a Formal Verification of the Raft Consensus Protocol](https://verdi.uwplse.org/raft-proof.pdf) | [Assignment 2](https://github.com/OUPL/VerifiedSystems/blob/master/Assignment2.md) |
 | Week 10 | Verified web / crypto | [Everest: Towards a Verified, Drop-in Replacement of HTTPS](http://drops.dagstuhl.de/opus/volltexte/2017/7119/pdf/LIPIcs-SNAPL-2017-1.pdf) | Final Project Check-in #2 |
 | Week 11 | Verified web / crypto cont. | [Formally Verified Cryptographic Web Applications in WebAssembly](https://eprint.iacr.org/2019/542.pdf) | |
