@@ -43,8 +43,8 @@ Students are required to complete a significant final project (40%) that either 
 | Week 8 | Verdi | [Verdi: A Framework for Implementing and Verifying Distributed Systems](https://verdi.uwplse.org/verdi.pdf) | One para. description of your A2 project (by email) |
 | Week 9 | Verdi-style Paxos | [Planning for Change in a Formal Verification of the Raft Consensus Protocol](https://verdi.uwplse.org/raft-proof.pdf) | [Assignment 2](https://github.com/OUPL/VerifiedSystems/blob/master/Assignment2.md) |
 | Week 10 | Verified web / crypto | [Everest: Towards a Verified, Drop-in Replacement of HTTPS](http://drops.dagstuhl.de/opus/volltexte/2017/7119/pdf/LIPIcs-SNAPL-2017-1.pdf) | Final Project Check-in #2 |
-| Week 11 | Verified web / crypto cont. | [Formally Verified Cryptographic Web Applications in WebAssembly](https://eprint.iacr.org/2019/542.pdf) | |
-| Week 12 | No meeting | |
+| Week 11 | No meeting | |
+| Week 12 | Verified web / crypto cont. | [Formally Verified Cryptographic Web Applications in WebAssembly](https://eprint.iacr.org/2019/542.pdf) | |
 | Week 13 | Verified blockchains | [Mechanising Blockchain Consensus](http://discovery.ucl.ac.uk/10038868/1/toychain-accepted.pdf) | [Assignment 3](https://github.com/OUPL/VerifiedSystems/blob/master/Assignment3.md) |
 | Week 14 | TBD | TBD | |
 | Week 15 | Final projects presentations | No reading | |
