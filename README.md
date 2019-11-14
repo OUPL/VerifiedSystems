@@ -48,6 +48,7 @@ Students are required to complete a significant final project (40%) that either 
 | Week 13 | Verified blockchains | [Incorrectness Logic](http://www0.cs.ucl.ac.uk/staff/p.ohearn/papers/IncorrectnessLogic.pdf) | [Assignment 3](https://github.com/OUPL/VerifiedSystems/blob/master/Assignment3.md) |
 | Week 14 | Thanksgiving | No meeting | |
 | Week 15 | Final projects presentations | No reading | |
+| Finals Week | Automatic Differentiation (D. Juedes) | |
 
 ## Homework and Collaboration Policies
 
